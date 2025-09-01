@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mikkel Cardon</h1>
 <h3 align="center">A passionate back-end developer from Denmark</h3>
-<a href="https://mikkelcardon.vercel.app/"></a>
+<a href="https://mikkelcardon.vercel.app/">My portfolio website</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
