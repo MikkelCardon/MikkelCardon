@@ -19,8 +19,6 @@
 </a>
 </p>
 
----
-
 ## 💻 Languages and Frameworks:
 <p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
@@ -46,8 +44,6 @@
 </a> 
 </p>
 
----
-
 ## 🗄️ Databases:
 <p align="left"> 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
@@ -60,8 +56,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> 
 </a> 
 </p>
-
----
 
 ## 🛠️ Tools:
 <p align="left"> 
@@ -79,10 +73,8 @@
 </a> 
 </p>
 
----
 
-<div align="center">
 
-**Thanks for visiting my profile! 😄**
 
-</div>
+
+
