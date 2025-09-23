@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm Mikkel Cardon
+Mikkel Cardon
 
-### 🚀 A passionate back-end developer from Denmark 🇩🇰
+### 🚀 back-end developer from Denmark 🇩🇰
 
 ---
 
