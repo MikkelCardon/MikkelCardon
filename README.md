@@ -6,7 +6,7 @@ Mikkel Cardon
 
 ---
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Site-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://mikkelcardon.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Site-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://mikkelcardon-portfolio.vercel.app/)
 
 ---
 
