@@ -19,6 +19,21 @@ Mikkel Cardon
 </a>
 </p>
 
+## 🔨 Currently Building:
+
+**🧭 Local Model Router + Autonomous Agent Sandbox**
+A locally hosted model router built on Laya (open source) that routes tasks to the right model. It plugs into a full agent sandbox that picks up GitHub issues, works on them autonomously, and opens PRs that are ready for my review and approval. The work is split across specialized agents:
+- **Planner:** breaks the issue down and plans the implementation
+- **Writer:** writes the code
+- **Critic:** reviews the changes and pushes back before anything reaches a PR
+- **Merger:** resolves merge conflicts
+
+**💰 Danish Wealth Tracker**
+A personal finance app for Danes: a single overview of money, investments, pension and debt, plus savings goals toward buying an apartment or house.
+- **Stack:** TypeScript, Next.js, Neon (Postgres), Vercel, Better Auth
+- **Preview environments:** every PR gets its own Neon database branch, wired to a Vercel Preview deployment, so each change can be tested against isolated data
+- **i18n:** built with translation support from the start
+
 ## 💻 Languages and Frameworks:
 <p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
@@ -32,10 +47,10 @@ Mikkel Cardon
 </a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> 
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
 </a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
+</a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/white"/>
